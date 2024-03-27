@@ -1,16 +1,20 @@
-### Hi there 👋
+## 🌐 Socials:
+[![X](https://img.shields.io/badge/-black.svg?logo=X&logoColor=white)](https://x.com/purpl33t)
 
-<!--
-**Vulnpire/Vulnpire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💻 Tech Stack:
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![BurpSuite](https://img.shields.io/badge/burpsuite-%23FF9900.svg?style=plastic&logo=burpsuite&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)![ruby](https://img.shields.io/badge/ruby-%23FF9900.svg?style=plastic&logo=ruby&logoColor=white) ![kali](https://img.shields.io/badge/kali%20linux-%2323092E20.svg?style=plastic&logo=kalilinux&logoColor=white) ![c](https://img.shields.io/badge/-%23FF235.svg?style=plastic&logo=c&logoColor=white) ![Metasploit](https://img.shields.io/badge/metasploit-%23FF9900.svg?style=plastic&logo=metasploit&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![do](https://img.shields.io/badge/do-%23FF9900.svg?style=plastic&logo=digitalocean&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=plastic&logo=Raspberry-Pi) ![Docker](https://img.shields.io/badge/ubuntu-%23FF2200.svg?style=plastic&logo=ubuntu&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![arch](https://img.shields.io/badge/arch%20btw-%2323092E20.svg?style=plastic&logo=archlinux&logoColor=white) ![rust](https://img.shields.io/badge/rust-%23FF235.svg?style=plastic&logo=rust&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)![GDB](https://img.shields.io/badge/GDB-%23004D7A?style=flat)![Langchain](https://img.shields.io/badge/Langchain-%23FFD700?style=flat)![OSINT](https://img.shields.io/badge/OSINT-%23FF4500?style=flat)![Impacket](https://img.shields.io/badge/Impacket-%23008B8B?style=flat)![Active Directory](https://img.shields.io/badge/Active%20Directory-%23007396?style=flat&logo=active-directory&logoColor=white)![Red Teaming](https://img.shields.io/badge/Red%20Teaming-%23FF0000?style=flat)![Blue Teaming](https://img.shields.io/badge/Blue%20Teaming-%230000FF?style=flat)![Snort](https://img.shields.io/badge/Snort-%23FF4500?style=flat)![IOS Cisco](https://img.shields.io/badge/IOS%20Cisco-%230049FD?style=flat&logo=cisco&logoColor=white)![Malware](https://img.shields.io/badge/Malware-%23FF0000?style=flat)![Nmap](https://img.shields.io/badge/Nmap-%23000000?style=flat&logo=nmap&logoColor=white)![ExploitDB](https://img.shields.io/badge/ExploitDB-%23FFFFFF?style=flat)![ghidra](https://img.shields.io/badge/ghidra-%23FF0000?style=flat) 
+![ChromaDB](https://img.shields.io/badge/ChromaDB-%23FFA500?style=flat)
+![Amplify](https://img.shields.io/badge/Amplify-%23FF00FF?style=flat)
+![Nuclei](https://img.shields.io/badge/Nuclei-%23FFFF00?style=flat)
+![Katana](https://img.shields.io/badge/Katana-%23000000?style=flat)
+![LLMs](https://img.shields.io/badge/LLMs-%23FFD700?style=flat)
+![Finetunning](https://img.shields.io/badge/Finetunning-%23FF8C00?style=flat)
 
-Here are some ideas to get you started:
+# 🕵🏻‍♂️ Profiles:
+[![THM](https://tryhackme-badges.s3.amazonaws.com/cxrsedsxnset.png)](https://tryhackme.com/p/cxrsedsxnset)
+[![HTB](https://www.hackthebox.com/badge/image/1278607)](https://app.hackthebox.com/profile/1278607)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=purpl33t&label=Profile%20Views&color=12&icon=8&pretty=true)](https://visitcount.itsvg.in)
