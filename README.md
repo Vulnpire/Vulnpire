@@ -7,7 +7,7 @@
 ![Nuclei](https://img.shields.io/badge/nuclei-%23FFFF00?style=flat)
 ![Katana](https://img.shields.io/badge/katana-%23000000?style=flat)
 ![LLMs](https://img.shields.io/badge/llms-%23FFD700?style=flat)
-![Finetunning](https://img.shields.io/badge/Finetunning-%23FF8C00?style=flat)
+![Finetunning](https://img.shields.io/badge/finetunning-%23FF8C00?style=flat)
 
 # 🕵🏻‍♂️ Profiles:
 [![THM](https://tryhackme-badges.s3.amazonaws.com/cxrsedsxnset.png)](https://tryhackme.com/p/cxrsedsxnset)
