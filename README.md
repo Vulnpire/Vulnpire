@@ -40,6 +40,6 @@ I am **Vulnpire** – a passionate Red Teamer, Bounty Hunter, and Tool Developer
   🚀 **I'm currently working on**</h2>
 
 👁️ `Phantom Sight`: Automation for mass-scale vulnerability discovery and exploitation across web (SaaS) - Demo Soon!      
-🎯 `Banshee`: Mass-scale google dorking tool with anti-bot bypass - Demo - Will Be Released Soon!     
+🎯 `Banshee`: Mass-scale google dorking tool with anti-bot bypass - [Demo](https://asciinema.org/a/rDPxFJH7BYVfdnafXkiRi3sta) - Will Be Released Soon!     
 
 <p align="center"> <b>Exploit the unknown. Fortify the known.</b> </p>
