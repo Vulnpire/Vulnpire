@@ -15,6 +15,7 @@ I am **Vulnpire** – a passionate Red Teamer, Bounty Hunter, and Tool Developer
         Build frameworks for reconnaissance, exploitation, and post-exploitation.
         Identify critical vulnerabilities in applications & APIs.
         Conduct advanced bug bounty hunts and red teaming operations.
+        Participate in CTFs in my free time.
     🧠 Currently learning: Everything.
     📫 Contact me: ones.and.zeroes.1@proton.me
     👾 Role:
