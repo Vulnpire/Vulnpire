@@ -1,6 +1,6 @@
 Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/> </h2>
 
-I am **Vulnpire** – a passionate Red Teamer, Bounty Hunter, and Tool Developer. I specialize in cyber-adversarial techniques and have a flair for automation. My mission is: explore the unexplored, disrupt the norm, and secure the world, one exploit at a time.
+I am **Vulnpire** – a passionate Red Teamer, Bounty Hunter, and Tool Developer. My mission is: explore the unexplored, disrupt the norm, and secure the world, one exploit at a time.
 
 <p align="center"><img src="https://github.com/Vulnpire/Vulnpire/blob/main/dance.gif?raw=true" width="40%" height="auto" alt="Descriptive Text"></p>
 
@@ -19,19 +19,20 @@ I am **Vulnpire** – a passionate Red Teamer, Bounty Hunter, and Tool Developer
     📫 Contact me: ones.and.zeroes.1@proton.me
     👾 Role:
         Red/Blue Teamer, Bounty Hunter, Open-Source Whizz
-    ♟️ Interests:
+    ♟️ Interests & Expertise:
           Web Application Pentesting & Development
           Mass Exploitation & Cyber Warfare
           OSINT & Digital Forensics
           Strategic Adversarial Techniques
           Reversing & Exploit Development for Legacy and Modern Systems
           Tool-Building for Offensive Security
+          Linux & DevSecOps
 
 🧩 **Skills & Toolbox**
 
     Vulnerability Research: RCE, XSS, SQLi, SSRF, CSRF, CORS, IOT, WEB-CACHE, SSTI, XXE, JWT, IDOR, BUSINESS LOGIC
     Exploit Development: Buffer Overflows, LPEs, AD Persistence
-    Programming: Go, Ruby, Python, Bash for Recon and Exploitation
+    Programming: Go, Python, Bash for Recon and Exploitation
     Red Teaming: API, Web, and Network Pentesting
     DevSecOps: Regex Workflows, Secure Code Audits
 
@@ -40,6 +41,6 @@ I am **Vulnpire** – a passionate Red Teamer, Bounty Hunter, and Tool Developer
   🚀 **I'm currently working on**</h2>
 
 👁️ `Phantom Sight`: Automation for mass-scale vulnerability discovery and exploitation across web (SaaS) - Demo Soon!      
-🎯 `Banshee`: Mass-scale google dorking tool with anti-bot bypass - [Demo](https://asciinema.org/a/rDPxFJH7BYVfdnafXkiRi3sta) - Will Be Released Soon!     
+🎯 `Banshee`: Yet another* Google dorking tool with anti-bot bypass - [Demo](https://asciinema.org/a/rDPxFJH7BYVfdnafXkiRi3sta) - Will Be Released Soon!     
 
 <p align="center"> <b>Exploit the unknown. Fortify the known.</b> </p>
