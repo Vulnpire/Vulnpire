@@ -26,6 +26,7 @@ I am **Vulnpire** – a passionate Red Teamer, Bounty Hunter, and Tool Developer
           Strategic Adversarial Techniques
           Reversing & Exploit Development for Legacy and Modern Systems
           Tool-Building for Offensive Security
+          Malware Development & Analysis
           Linux & DevSecOps
 
 🧩 **Skills & Toolbox**
@@ -72,8 +73,6 @@ I am **Vulnpire** – a passionate Red Teamer, Bounty Hunter, and Tool Developer
   <img src="https://img.shields.io/badge/Frida-2E2E2E?style=for-the-badge&logo=frida&color=black" alt="Frida"> 
   <img src="https://img.shields.io/badge/DnSpy-2C3E50?style=for-the-badge&logo=dnspy&color=black" alt="DnSpy"> 
 </div>
-
-
   
   🚀 **I'm currently working on**</h2>
 
