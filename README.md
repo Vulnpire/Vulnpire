@@ -12,10 +12,10 @@ I am **Vulnpire** – a passionate Red Teamer, Bounty Hunter, and Tool Developer
 
     Alias: v1xtron
     🛠 What I do:
-        Passionate about building tools for reconnaissance, exploitation, and post-exploitation.
-        Enjoy bug bounties—research and articles are my Netflix.
-        Participate in CTFs during my free time.
-    🧠 Currently learning: Everything.
+        Passionate about building tools for reconnaissance, exploitation, and post-exploitation
+        Enjoy bug bounties—research and articles are my Netflix
+        Participate in CTFs during my free time
+    🧠 Currently learning: Everything
     📫 Contact me: ones.and.zeroes.1@proton.me
     🕶️ Role:
         Red/Blue Teamer, Bounty Hunter, Open-Source Whizz
@@ -33,7 +33,7 @@ I am **Vulnpire** – a passionate Red Teamer, Bounty Hunter, and Tool Developer
     Vulnerability Research: RCE, XSS, SQLi, SSRF, CSRF, CORS, IOT, WEB-CACHE, SSTI, XXE, JWT, IDOR, BUSINESS LOGIC
     Exploit Development: Buffer Overflows, LPEs, AD Persistence
     Programming: Go, Python, Bash for Recon and Exploitation
-    Red Teaming: API, Web, and Network Pentesting
+    Red Teaming: API, Web, Network Pentesting, Social Engineering, OSINT, Reconnaissance
     DevSecOps: Regex Workflows, Secure Code Audits
 
 <div align="center" style="margin-bottom: 20px;"> 
