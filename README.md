@@ -15,11 +15,6 @@ I am **Vulnpire** – a passionate Red Teamer, Bounty Hunter, and Tool Developer
     >
   </a>
 </div>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=11F714&center=true&vCenter=true&width=500&height=60&lines=Exploit+the+Unknown+|+Code+for+Impact;Mass+Exploitation+%26+Cyber+Warfare;Innovation+through+Adversity" alt="Typing SVG">
-</div>
-
-
 
 <img width="30%" align='right' src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15">
 
