@@ -6,6 +6,21 @@ I am **Vulnpire** – a passionate Red Teamer, Bounty Hunter, and Tool Developer
 
 ---
 
+<div align="center" style="margin-top: 20px;">
+  <a href="https://readme-typing-svg.demolab.com" target="_blank">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=11F714&center=true&vCenter=true&width=600&height=80&lines=Exploit+the+Unknown+|+Code+for+Impact;Mass+Exploitation+%26+Adversary+Emulation;Innovation+through+Adversity" 
+      alt="Dynamic Typing SVG"
+      style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);"
+    >
+  </a>
+</div>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=11F714&center=true&vCenter=true&width=500&height=60&lines=Exploit+the+Unknown+|+Code+for+Impact;Mass+Exploitation+%26+Cyber+Warfare;Innovation+through+Adversity" alt="Typing SVG">
+</div>
+
+
+
 <img width="30%" align='right' src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15">
 
 ⚡ **About Me**
