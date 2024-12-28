@@ -98,7 +98,7 @@ I am **Vulnpire** – a passionate Red Teamer, Bounty Hunter, and Tool Developer
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&color=black" alt="Nginx">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&color=black" alt="Kubernetes">
   <img src="https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&color=black" alt="Drupal">
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&color=black" alt="Jenkins"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&color=black" alt="Jenkins"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&color=black" alt="Jenkins"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&color=black" alt="Jenkins">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&color=black" alt="Jenkins">
   <img src="https://img.shields.io/badge/OAuth-3C9CD7?style=for-the-badge&logo=oauth&color=black" alt="OAuth">
   <img src="https://img.shields.io/badge/SAML-FF9900?style=for-the-badge&logo=saml&color=black" alt="SAML">
 </div>
