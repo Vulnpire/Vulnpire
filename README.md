@@ -82,6 +82,24 @@ I am **Vulnpire** – a passionate Red Teamer, Bounty Hunter, and Tool Developer
   <img src="https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=ghidra&color=black" alt="Ghidra"> 
   <img src="https://img.shields.io/badge/Frida-2E2E2E?style=for-the-badge&logo=frida&color=black" alt="Frida"> 
   <img src="https://img.shields.io/badge/DnSpy-2C3E50?style=for-the-badge&logo=dnspy&color=black" alt="DnSpy"> 
+  <img src="https://img.shields.io/badge/Chef-F09820?style=for-the-badge&logo=chef&color=black" alt="Chef"> 
+  <img src="https://img.shields.io/badge/Puppet-FFAE1A?style=for-the-badge&logo=puppet&color=black" alt="Puppet"> 
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&color=black" alt="Terraform"> 
+  <img src="https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&color=black" alt="Vagrant"> 
+  <img src="https://img.shields.io/badge/ArgoCD-E01F27?style=for-the-badge&logo=argo&color=black" alt="ArgoCD"> 
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&color=black" alt="Helm"> 
+  <img src="https://img.shields.io/badge/Consul-F24C4C?style=for-the-badge&logo=consul&color=black" alt="Consul"> 
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&color=black" alt="Prometheus"> 
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&color=black" alt="Grafana"> 
+  <img src="https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic&color=black" alt="Elastic Stack"> 
+  <img src="https://img.shields.io/badge/Harbor-60B932?style=for-the-badge&logo=harbor&color=black" alt="Harbor"> 
+  <img src="https://img.shields.io/badge/Spinnaker-139BB4?style=for-the-badge&logo=spinnaker&color=black" alt="Spinnaker"> 
+  <img src="https://img.shields.io/badge/HashiCorp_Vault-1C1C1C?style=for-the-badge&logo=vault&color=black" alt="HashiCorp Vault"> 
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&color=black" alt="Nginx">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&color=black" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&color=black" alt="Drupal">
+  <img src="https://img.shields.io/badge/OAuth-3C9CD7?style=for-the-badge&logo=oauth&color=black" alt="OAuth">
+  <img src="https://img.shields.io/badge/SAML-FF9900?style=for-the-badge&logo=saml&color=black" alt="SAML">
 </div>
   
   🚀 **I'm currently working on**</h2>
