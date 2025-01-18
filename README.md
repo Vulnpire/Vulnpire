@@ -2,7 +2,9 @@ Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 
 I am **Vulnpire** – a passionate Red Teamer, Bounty Hunter, and Tool Developer. My mission is: explore the unexplored, disrupt the norm, and secure the world, one exploit at a time.
 
+<!--
 <p align="center"><img src="https://github.com/Vulnpire/Vulnpire/blob/main/dance.gif?raw=true" width="40%" height="auto" alt="Descriptive Text"></p>
+-->
 
 ---
 
@@ -16,7 +18,9 @@ I am **Vulnpire** – a passionate Red Teamer, Bounty Hunter, and Tool Developer
   </a>
 </div>
 
+<!--
 <img width="30%" align='right' src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15">
+-->
 
 ⚡ **About Me**
 
