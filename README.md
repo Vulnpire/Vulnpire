@@ -1,6 +1,7 @@
 Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/> </h2>
 
-I am **Vulnpire** – a passionate Red Teamer, Bounty Hunter, and Tool Developer. My mission is: explore the unexplored, disrupt the norm, and secure the world, one exploit at a time.
+I am **Vulnpire** – a passionate Red/Blue Teamer, Bounty Hunter, Malware Developer, Reverse Engineer, and Tool Developer.
+My mission is: explore the unexplored, disrupt the norm, and secure the world, one exploit at a time.
 
 <!--
 <p align="center"><img src="https://github.com/Vulnpire/Vulnpire/blob/main/dance.gif?raw=true" width="40%" height="auto" alt="Descriptive Text"></p>
@@ -64,6 +65,7 @@ I am **Vulnpire** – a passionate Red Teamer, Bounty Hunter, and Tool Developer
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&color=black" alt="MySQL"> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=black" alt="Python"> 
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&color=black" alt="Ruby"> 
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&color=black" alt="C#">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=black" alt="JavaScript"> 
   <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&color=black" alt="Assembly"> 
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&color=black" alt="Kali Linux"> 
