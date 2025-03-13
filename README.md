@@ -33,16 +33,16 @@ My mission is: explore the unexplored, disrupt the norm, and secure the world, o
     🧠 Currently learning: Everything
     📫 Contact me: ones.and.zeroes.1@proton.me
     🕶️ Role:
-        Red/Blue Teamer, Bounty Hunter, Open-Source Whizz
+        Red/Blue Teamer, Bounty Hunter, Software Developer, Open-Source Whizz
     ♟️ Interests & Expertise:
-          Web Application Pentesting & Development
-          Mass Exploitation & Advanced Threat Simulation
-          OSINT & Digital Forensics
-          Strategic Adversarial Techniques
-          Reversing & Exploit Development for Legacy and Modern Systems
-          Tool-Building for Offensive Security
-          Malware Development & Analysis
-          Linux & DevSecOps
+        Web Application Pentesting & Development
+        Mass Exploitation & Advanced Threat Simulation
+        OSINT & Digital Forensics
+        Strategic Adversarial Techniques
+        Reversing & Exploit Development for Legacy and Modern Systems
+        Tool-Building for Offensive Security
+        Malware Development & Analysis
+        Linux & DevSecOps
 
 🧩 **Skills & Toolbox**
 
@@ -114,4 +114,4 @@ My mission is: explore the unexplored, disrupt the norm, and secure the world, o
 👁️ `Phantom Sight`: Automation for mass-scale vulnerability discovery and exploitation across the web (SaaS) - Demo Soon!      
 🎯 `Banshee`: Yet another* Google dorking tool with anti-bot bypass - [Demo](https://asciinema.org/a/rDPxFJH7BYVfdnafXkiRi3sta) - Will Be Released Soon!     
 
-<p align="center"> <b>Exploit the unknown. Fortify the known.</b> </p>
+<p align="center"> <b>Exploit the unknown. Fortify the known. 🤘🏻</b> </p>
