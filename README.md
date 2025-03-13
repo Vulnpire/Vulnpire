@@ -1,6 +1,6 @@
 Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/> </h2>
 
-I am **Vulnpire** – a passionate Red/Blue Teamer, Bounty Hunter, Malware Developer, Reverse Engineer, and Tool Developer.
+I am ***Vulnpire*** – a passionate Red/Blue Teamer, Bounty Hunter, Malware Developer, Reverse Engineer, and Tool Developer.
 My mission is: explore the unexplored, disrupt the norm, and secure the world, one exploit at a time.
 
 <!--
