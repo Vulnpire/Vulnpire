@@ -38,18 +38,19 @@ My mission is: explore the unexplored, disrupt the norm, and secure the world, o
         Web Application Pentesting & Development
         Mass Exploitation & Advanced Threat Simulation
         OSINT & Digital Forensics
-        Strategic Adversarial Techniques
         Reversing & Exploit Development for Legacy and Modern Systems
         Tool-Building for Offensive Security
         Malware Development & Analysis
         Linux & DevSecOps
+        Mobile App Pentesting & Development
+        WiFi & IoT Pentesting
 
 🧩 **Skills & Toolbox**
 
-    Vulnerability Research: RCE, XSS, SQLi, SSRF, CSRF, CORS, IOT, WEB-CACHE, SSTI, XXE, JWT, IDOR, BUSINESS LOGIC
+    Vulnerability Research: RCE, XSS, SQLi, SSRF, CSRF, CORS, WEB-CACHE, SSTI, XXE, JWT, IDOR, BUSINESS LOGIC
     Exploit Development: Buffer Overflows, LPEs, AD Persistence
     Programming: Go, Python, Bash for Recon and Exploitation
-    Red Teaming: API, Web, Network Pentesting, Social Engineering, OSINT, Reconnaissance
+    Red Teaming: API, Web, ICS, IoT, Network Pentesting, Social Engineering, OSINT, Reconnaissance
     DevSecOps: Regex Workflows, Secure Code Audits
 
 <div align="center" style="margin-bottom: 20px;"> 
