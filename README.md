@@ -36,6 +36,7 @@ My mission is: explore the unexplored, disrupt the norm, and secure the world, o
         Red/Blue Teamer, Bounty Hunter, Software Developer, Open-Source Whizz
     ♟️ Interests & Expertise:
         Web Application Pentesting & Development
+        Network & Active Directory Pentesting
         Mass Exploitation & Advanced Threat Simulation
         OSINT & Digital Forensics
         Reversing & Exploit Development for Legacy and Modern Systems
