@@ -37,7 +37,7 @@ My mission is: explore the unexplored, disrupt the norm, and secure the world, o
     ♟️ Interests & Expertise:
         Web Application Pentesting & Development
         Network & Active Directory Pentesting
-        Mass Exploitation & Advanced Threat Simulation
+        Mass Exploitation & Advanced Persistent Threat Simulation
         OSINT & Digital Forensics
         Reversing & Exploit Development for Legacy and Modern Systems
         Tool-Building for Offensive Security
