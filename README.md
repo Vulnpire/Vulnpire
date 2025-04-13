@@ -31,7 +31,7 @@ My mission is: explore the unexplored, disrupt the norm, and secure the world, o
         Enjoy bug bounties—research and articles are my Netflix
         Participate in CTFs during my free time
     🧠 Currently learning: Everything
-    📫 Contact me: ones.and.zeroes.1@proton.me
+    📫 Contact me: ones.and.zeroes.1@pm.me
     🕶️ Role:
         Red/Blue Teamer, Bounty Hunter, Software Developer, Open-Source Whizz
     ♟️ Interests & Expertise:
