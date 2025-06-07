@@ -1,6 +1,6 @@
 Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/> </h2>
 
-I am ***Vulnpire*** – a passionate Red/Blue Teamer, Bounty Hunter, Malware Developer, Reverse Engineer, and Tool Developer.
+I am ***Vulnpire*** – a passionate Red/Blue Teamer, Bounty Hunter, Software Developer, Threat Hunter, Reverse Engineer, and Tool Developer.
 My mission is: explore the unexplored, disrupt the norm, and secure the world, one exploit at a time.
 
 <p align="center"><img src="https://github.com/Vulnpire/Vulnpire/blob/main/dance.gif?raw=true" width="40%" height="auto" alt="Descriptive Text"></p>
@@ -24,17 +24,18 @@ My mission is: explore the unexplored, disrupt the norm, and secure the world, o
     Alias: v1xtron
     🛠 What I do:
         Passionate about building tools for reconnaissance, exploitation, and post-exploitation
-        Enjoy bug bounties—research and articles are my Netflix
+        Enjoy pentesting & bug bounties—research and articles are my Netflix
         Participate in CTFs during my free time
     🧠 Currently learning: Everything
     📫 Contact me: ones.and.zeroes.1@pm.me
     🕶️ Role:
-        Purple Teamer, Bounty Hunter, Software Developer, DevSecOps Engineer, Open-Source Whizz
+        Purple Teamer, Bounty Hunter, Software Developer, DevSecOps Engineer, Open-Source Whizz, Mentor, Trainer
     ♟️ Interests & Expertise:
         Web Application Pentesting & Development
         Network & Active Directory Pentesting
         Mass Exploitation & Advanced Persistent Threat Simulation
         OSINT & Digital Forensics
+        Threat Hunting & Incident Response
         Reversing & Exploit Development for Legacy and Modern Systems
         Tool-Building for Offensive Security
         Malware Development & Analysis
@@ -48,6 +49,7 @@ My mission is: explore the unexplored, disrupt the norm, and secure the world, o
     Exploit Development: Buffer Overflows, LPEs, AD Persistence
     Programming: Go, Python, Bash for Recon and Exploitation
     Red Teaming: API, Web, ICS, IoT, Network Pentesting, Social Engineering, OSINT, Reconnaissance
+    Threat Hunting: Elastic, Sysmon, Sigma, Detection Engineering, Splunk
     DevSecOps: Regex Workflows, Secure Code Audits
 
 <div align="center" style="margin-bottom: 20px;"> 
@@ -82,6 +84,7 @@ My mission is: explore the unexplored, disrupt the norm, and secure the world, o
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&color=black" alt="Ubuntu"> 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&color=black" alt="Docker"> 
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&color=black" alt="Cisco"> 
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&color=black" alt="Splunk">
   <img src="https://img.shields.io/badge/Radare2-3F3F3F?style=for-the-badge&logo=radare2&color=black" alt="Radare2"> 
   <img src="https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=ghidra&color=black" alt="Ghidra"> 
   <img src="https://img.shields.io/badge/Frida-2E2E2E?style=for-the-badge&logo=frida&color=black" alt="Frida"> 
