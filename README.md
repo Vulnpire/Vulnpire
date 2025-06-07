@@ -29,7 +29,7 @@ My mission is: explore the unexplored, disrupt the norm, and secure the world, o
     🧠 Currently learning: Everything
     📫 Contact me: ones.and.zeroes.1@pm.me
     🕶️ Role:
-        Red/Blue Teamer, Bounty Hunter, Software Developer, Open-Source Whizz
+        Purple Teamer, Bounty Hunter, Software Developer, DevSecOps Engineer, Open-Source Whizz
     ♟️ Interests & Expertise:
         Web Application Pentesting & Development
         Network & Active Directory Pentesting
