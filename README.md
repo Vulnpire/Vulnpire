@@ -48,7 +48,7 @@ My mission is: explore the unexplored, disrupt the norm, and secure the world, o
     Vulnerability Research: RCE, XSS, SQLi, SSRF, CSRF, CORS, WEB-CACHE, SSTI, XXE, JWT, IDOR, BUSINESS LOGIC
     Exploit Development: Buffer Overflows, LPEs, AD Persistence
     Programming: Go, Python, Bash for Recon and Exploitation
-    Red Teaming: API, Web, ICS, IoT, Network Pentesting, Social Engineering, OSINT, Reconnaissance
+    Red Teaming: Web & API & ICS & IoT & Network Pentesting, Social Engineering, OSINT, Reconnaissance
     Threat Hunting: Elastic, Sysmon, Sigma, Detection Engineering, Splunk
     DevSecOps: Regex Workflows, Secure Code Audits
 
