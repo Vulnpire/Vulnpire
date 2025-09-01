@@ -1,6 +1,6 @@
 Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/> </h2>
 
-I am ***Vulnpire*** – a passionate Red/Blue Teamer, Bounty Hunter, Software Developer, Threat Hunter, Reverse Engineer, and Tool Developer.
+I am **V** – a passionate Red/Blue Teamer, Bounty Hunter, Software Developer, Threat Hunter, Reverse Engineer, and Tool Developer.
 My mission is: explore the unexplored, disrupt the norm, and secure the world, one exploit at a time.
 
 <p align="center"><img src="https://github.com/Vulnpire/Vulnpire/blob/main/dance.gif?raw=true" width="40%" height="auto" alt="Descriptive Text"></p>
