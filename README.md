@@ -113,6 +113,6 @@ My mission is: explore the unexplored, disrupt the norm, and secure the world, o
   🚀 **I'm currently working on**</h2>
 
 👁️ `Phantom Sight`: Automation for mass-scale vulnerability discovery and exploitation across the web (SaaS) - Demo Soon!      
-🎯 `Banshee`: Yet another* Google dorking tool with anti-bot bypass - [Demo](https://asciinema.org/a/rDPxFJH7BYVfdnafXkiRi3sta) - Will Be Released Soon!     
+🎯 `Banshee`: Yet another* Google dorking tool with anti-bot bypass - [Released!](https://github.com/Vulnpire/Banshee)     
 
 <p align="center"> <b>Exploit the unknown. Fortify the known. 🤘🏻</b> </p>
