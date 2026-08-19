@@ -2,14 +2,14 @@
 
 # `V` // VULNSPIRE
 
-### AI-native PTaaS for authorized, evidence-backed web security
+### security researcher · AI engineer · builder
 
 [![Vulnspire](https://img.shields.io/badge/VULNSPIRE-AI--NATIVE_PTAAS-0b1220?style=for-the-badge&labelColor=ff3cac)](https://vulnspire.com)
 [![Cyberpars](https://img.shields.io/badge/CYBERPARS-SECURITY-0b1220?style=for-the-badge&labelColor=ff9a3d)](https://cyberpars.com)
 
 <img src="./assets/vulnspire-terminal.svg" alt="Vulnspire cyberpunk terminal interface" width="100%" />
 
-> I build systems that turn repetitive web pentesting into continuous, explainable security validation — with browser proof, durable evidence, and findings teams can act on.
+> I build systems for authorized web security testing — turning browser behavior into evidence people can inspect, reproduce, and act on.
 
 </div>
 
@@ -18,7 +18,7 @@
 <img src="./assets/v-whoami.svg" alt="Animated terminal showing V's whoami profile" width="100%" />
 
 <details>
-<summary>view the readable identity output</summary>
+<summary>open the terminal output</summary>
 
 ```text
 name       : V
@@ -29,72 +29,64 @@ sidequests : bug bounty research / CTFs / reverse engineering / strange systems
 
 </details>
 
-I am **V** — a security researcher, builder, and lifelong learner. I hunt weak signals, follow them into systems, and turn discoveries into stronger defenses.
+I’m **V**. My work sits where application security, automation, and developer tooling overlap. I follow weak signals until they become reproducible findings — then I work out how to make the next version harder to break.
 
-## `organizations`
+## `workbench`
 
-| Signal | Mission |
+| Project | What I’m working on |
 | --- | --- |
-| **[Vulnspire](https://vulnspire.com)** | Building an AI-native PTaaS that automates authorized web security testing and produces evidence-backed results. |
+| **[Vulnspire](https://vulnspire.com)** | An AI-native PTaaS for continuous, authorized web security validation. |
 | **[Cyberpars Cybersecurity](https://cyberpars.com)** | Co-founder of a cybersecurity company delivering penetration testing and security services. |
 
-## `field_log`
+## `field notes`
 
-- Reported **1,000+ valid bug-bounty findings**, including duplicate findings across authorized programs.
-- Perform bug-bounty operations outside of work because curiosity does not clock out.
-- Play CTFs for fun — the security equivalent of playing a good game.
-- Keep evolving: learn → explore → build → test → share → repeat.
+- **Bug bounty:** reported **1,000+ valid findings** across authorized programs — including duplicates.
+- **CTFs:** puzzles, reversing, and strange systems — purely for the fun of it.
+- **Learning loop:** learn → explore → build → test → share.
 
-## `vulnspire_stack`
+## `inside vulnspire`
 
 ```text
-┌─ security operations ──────────────────────────────────────────────┐
-│ AI agents · browser validation · web/API security · evidence ledgers │
+┌─ the direction ────────────────────────────────────────────────────┐
+│ AI agents · browser validation · web/API security · durable evidence │
 │ reproducible proof · findings pipelines · secure automation          │
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
-The platform direction is simple: make authorized web security testing more continuous, more explainable, and less dependent on repetitive manual work — without treating a model response as proof.
+I’m building Vulnspire around a simple idea: let automation handle the repetitive work, while every important claim stays tied to something a browser actually did.
 
 ## `operator_console`
 
 <img src="./assets/vulnspire-console.svg" alt="Vulnspire authorized operator console visual" width="100%" />
 
-> **Visual concept only:** this console is a safe, non-executing profile animation. It does not receive commands, open a shell, run a C2, or connect to any machine.
+> Concept art for an operator-first control plane: observe → validate → preserve proof.
 
 ## `toolkit`
 
 `Go` · `Python` · `TypeScript` · `JavaScript` · `Bash` · `Docker` · `Kubernetes` · `Linux` · `Burp Suite` · `Ghidra` · `Frida` · `Wireshark` · `Cloud` · `CI/CD`
 
-## `selected_signal`
+## `selected work`
 
-| Project | What it says |
+| Project | Focus |
 | --- | --- |
 | **[Banshee-AI](https://github.com/Vulnpire/Banshee-AI)** | AI-assisted security research and discovery tooling. |
 | **[Arsenal](https://github.com/Vulnpire/Arsenal)** | A practical collection of security tools, scripts, templates, and field notes. |
 | **[Wayfuzz](https://github.com/Vulnpire/wayfuzz)** | Focused wordlist generation from archived web paths. |
 
 <details>
-<summary><code>research surfaces</code></summary>
+<summary><code>topics I keep returning to</code></summary>
 <br />
 
 Web and API security · vulnerability research · automation · reconnaissance · threat hunting · reverse engineering · detection engineering · DevSecOps · adversary emulation · open-source tooling
 
 </details>
 
-## `outside_the_terminal`
-
-```text
-company → Vulnspire · Cyberpars
-code    → GitHub
-```
-
 <div align="center">
 
-### [Enter Vulnspire ↗](https://vulnspire.com) · [Cyberpars Cybersecurity ↗](https://cyberpars.com)
+### [Vulnspire ↗](https://vulnspire.com) · [Cyberpars Cybersecurity ↗](https://cyberpars.com)
 
 <br />
 
-`Exploit the unknown. Fortify the known.`
+`follow the signal · prove the impact · build the defense`
 
 </div>
