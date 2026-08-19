@@ -5,8 +5,6 @@
 ### AI-native PTaaS for authorized, evidence-backed web security
 
 [![Vulnspire](https://img.shields.io/badge/VULNSPIRE-AI--NATIVE_PTAAS-0b1220?style=for-the-badge&labelColor=ff3cac)](https://vulnspire.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-V-0b1220?style=for-the-badge&labelColor=4de2ff)](https://www.linkedin.com/in/vulnpire/)
-[![Spotify](https://img.shields.io/badge/SPOTIFY-NOW_PLAYING-0b1220?style=for-the-badge&labelColor=1ed760)](https://open.spotify.com/user/31kzny65nrpye2e6hcio4v27ik7e)
 [![Cyberpars](https://img.shields.io/badge/CYBERPARS-SECURITY-0b1220?style=for-the-badge&labelColor=ff9a3d)](https://cyberpars.com)
 
 <img src="./assets/vulnspire-terminal.svg" alt="Vulnspire cyberpunk terminal interface" width="100%" />
@@ -77,34 +75,19 @@ Web and API security · vulnerability research · automation · reconnaissance �
 
 </details>
 
-## `soundtrack`
-
-<a href="https://open.spotify.com/user/31kzny65nrpye2e6hcio4v27ik7e">
-  <img src="./assets/spotify-now-playing.svg" alt="Spotify listening panel — open my profile" width="100%" />
-</a>
-
-The listening panel has an optional self-hosted updater. It reads only your own recently played track through Spotify OAuth and commits a small SVG card to this repository. It stays disabled until the repository variable `SPOTIFY_ENABLED=true` and the required GitHub Actions secrets are configured.
-
 ## `outside_the_terminal`
 
 ```text
-music   → Spotify
-network → LinkedIn
 company → Vulnspire · Cyberpars
 code    → GitHub
 ```
 
 <div align="center">
 
-### [Enter Vulnspire ↗](https://vulnspire.com) · [Connect on LinkedIn ↗](https://www.linkedin.com/in/vulnpire/) · [Listen with me ↗](https://open.spotify.com/user/31kzny65nrpye2e6hcio4v27ik7e)
+### [Enter Vulnspire ↗](https://vulnspire.com) · [Cyberpars Cybersecurity ↗](https://cyberpars.com)
 
 <br />
 
 `Exploit the unknown. Fortify the known.`
 
 </div>
-
-<!--
-  The live Spotify panel is opt-in and self-hosted. A public Spotify profile URL
-  does not grant access to recently played tracks.
--->
