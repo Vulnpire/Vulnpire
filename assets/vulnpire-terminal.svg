@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Vulnpire cyberpunk terminal</title>
+  <desc id="desc">A dark terminal interface showing the Vulnpire AI-native PTaaS identity and security proof pipeline.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070b17"/>
+      <stop offset="0.55" stop-color="#0c1024"/>
+      <stop offset="1" stop-color="#170b1d"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4de2ff"/>
+      <stop offset="0.5" stop-color="#a855f7"/>
+      <stop offset="1" stop-color="#ff3cac"/>
+    </linearGradient>
+    <linearGradient id="cyanText" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4de2ff"/>
+      <stop offset="1" stop-color="#b8f4ff"/>
+    </linearGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" fill="none" stroke="#4de2ff" stroke-opacity=".08"/>
+      <circle cx="2" cy="2" r="1.2" fill="#ff3cac" fill-opacity=".45"/>
+    </pattern>
+    <filter id="glowCyan" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glowPink" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+      .small { font-size: 14px; letter-spacing: 1.3px; }
+      .body { font-size: 18px; letter-spacing: .4px; }
+      .title { font-size: 31px; font-weight: 700; letter-spacing: 3px; }
+      .blink { animation: blink 1.15s steps(2, jump-none) infinite; }
+      .scan { animation: scan 5s linear infinite; }
+      .pulse { animation: pulse 2.8s ease-in-out infinite; transform-origin: center; }
+      @keyframes blink { 50% { opacity: .2; } }
+      @keyframes scan { from { transform: translateY(-12px); opacity: 0; } 12% { opacity: .55; } 82% { opacity: .28; } to { transform: translateY(430px); opacity: 0; } }
+      @keyframes pulse { 50% { opacity: .45; } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="420" rx="22" fill="url(#bg)"/>
+  <rect x="1.5" y="1.5" width="1197" height="417" rx="20" fill="none" stroke="url(#edge)" stroke-opacity=".8" stroke-width="3"/>
+  <rect x="18" y="18" width="1164" height="384" rx="15" fill="url(#grid)"/>
+  <rect x="18" y="18" width="1164" height="384" rx="15" fill="none" stroke="#4de2ff" stroke-opacity=".18"/>
+
+  <circle cx="48" cy="48" r="7" fill="#ff5f57"/>
+  <circle cx="72" cy="48" r="7" fill="#febc2e"/>
+  <circle cx="96" cy="48" r="7" fill="#28c840"/>
+  <text x="125" y="54" class="mono small" fill="#9aa8c7">v1xtron@vulnpire:~</text>
+  <text x="1135" y="54" class="mono small" text-anchor="end" fill="#ff3cac">SECURE CHANNEL</text>
+
+  <line x1="42" y1="76" x2="1158" y2="76" stroke="#4de2ff" stroke-opacity=".2"/>
+  <text x="48" y="118" class="mono small" fill="#ff3cac">[ VULNSPIRE // BOOT SEQUENCE ]</text>
+  <text x="48" y="161" class="mono title" fill="url(#cyanText)" filter="url(#glowCyan)">AI-NATIVE PTaaS</text>
+  <text x="48" y="194" class="mono body" fill="#dce8ff">continuous security validation for the web</text>
+
+  <text x="52" y="246" class="mono body" fill="#65f7a1">[ OK ]</text>
+  <text x="142" y="246" class="mono body" fill="#a9b7d6">agent runtime ready</text>
+  <text x="52" y="279" class="mono body" fill="#65f7a1">[ OK ]</text>
+  <text x="142" y="279" class="mono body" fill="#a9b7d6">browser proof armed</text>
+  <text x="52" y="312" class="mono body" fill="#65f7a1">[ OK ]</text>
+  <text x="142" y="312" class="mono body" fill="#a9b7d6">evidence pipeline online</text>
+  <text x="52" y="345" class="mono body" fill="#ff9a3d">[ &gt; ]</text>
+  <text x="142" y="345" class="mono body" fill="#dce8ff">learn · explore · build · repeat</text>
+  <rect x="478" y="329" width="12" height="22" rx="2" class="blink" fill="#4de2ff"/>
+
+  <g transform="translate(800 112)">
+    <circle cx="118" cy="116" r="98" fill="#ff3cac" fill-opacity=".08" class="pulse" filter="url(#glowPink)"/>
+    <circle cx="118" cy="116" r="72" fill="none" stroke="#4de2ff" stroke-opacity=".55" stroke-width="2"/>
+    <circle cx="118" cy="116" r="48" fill="none" stroke="#ff3cac" stroke-opacity=".7" stroke-width="2" stroke-dasharray="4 9"/>
+    <path d="M118 25V207M27 116H209M54 52L182 180M182 52L54 180" stroke="#4de2ff" stroke-opacity=".22"/>
+    <path d="M118 56L175 89V155L118 188L61 155V89Z" fill="none" stroke="url(#edge)" stroke-width="3" filter="url(#glowCyan)"/>
+    <path d="M118 78L156 100V144L118 166L80 144V100Z" fill="#0b1220" stroke="#ff3cac" stroke-opacity=".8" stroke-width="2"/>
+    <path d="M102 116L113 127L137 103" fill="none" stroke="#65f7a1" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" filter="url(#glowCyan)"/>
+    <text x="118" y="251" class="mono small" text-anchor="middle" fill="#b8f4ff">PROOF // SIGNAL // IMPACT</text>
+  </g>
+
+  <rect x="18" y="18" width="1164" height="3" rx="1.5" class="scan" fill="url(#edge)" opacity=".35"/>
+</svg>
