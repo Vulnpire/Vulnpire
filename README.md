@@ -1,13 +1,13 @@
 <div align="center">
 
-# `v1xtron` // `NIGHTSHIFT`
+# `v1xtron` // `VULNPIRE`
 
 ### security research · AI engineering · builder
 
 [![Vulnspire](https://img.shields.io/badge/VULNSPIRE-AI--NATIVE_PTAAS-0b0710?style=for-the-badge&labelColor=8f1d40)](https://vulnspire.com)
 [![Cyberpars](https://img.shields.io/badge/CYBERPARS-SECURITY-0b0710?style=for-the-badge&labelColor=5b2a86)](https://cyberpars.com)
 
-<img src="./assets/vulnspire-terminal.svg" alt="v1xtron midnight cyberpunk terminal" width="100%" />
+<img src="./assets/vulnspire-terminal.svg" alt="v1xtron Vulnpire cyberpunk terminal" width="100%" />
 
 > I build security systems for authorized web testing — part researcher, part engineer, always looking for the signal others missed.
 
@@ -15,7 +15,7 @@
 
 ## `whoami`
 
-<img src="./assets/v-whoami.svg" alt="Animated midnight terminal showing v1xtron's identity" width="100%" />
+<img src="./assets/v-whoami.svg" alt="Animated Vulnpire terminal showing v1xtron's identity" width="100%" />
 
 <details>
 <summary>open the terminal output</summary>
@@ -88,7 +88,7 @@ I’m building Vulnspire around a simple idea: let automation handle the repetit
 
 **Systems** · `Linux` · `WSL` · `Docker` · `Kubernetes` · `AWS` · `GCP` · `Azure` · `CI/CD`
 
-## `after hours`
+## `side quests`
 
 - **Bug bounty:** keep looking after the workday ends; the best leads are often the quiet ones.
 - **CTFs:** reversing, exploitation, and odd systems for the fun of solving hard problems.
@@ -98,7 +98,7 @@ I’m deliberate with details, comfortable with hard problems, and happiest when
 
 ## `operator_console`
 
-<img src="./assets/vulnspire-console.svg" alt="v1xtron midnight operator console visual" width="100%" />
+<img src="./assets/vulnspire-console.svg" alt="v1xtron Vulnpire operator console visual" width="100%" />
 
 > A visual study of a proof-first control plane: quiet interface, sharp edges, no theatrics.
 
@@ -116,6 +116,6 @@ Web and API security · AI security · vulnerability research · automation · r
 
 <br />
 
-`night shift · sharp eyes · clean proof`
+`Vulnpire · sharp eyes · clean proof`
 
 </div>
