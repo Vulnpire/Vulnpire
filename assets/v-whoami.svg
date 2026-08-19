@@ -37,6 +37,7 @@
       .type-2 { animation: type-2 13.5s ease-in-out infinite; }
       .type-3 { animation: type-3 13.5s ease-in-out infinite; }
       .type-4 { animation: type-4 13.5s ease-in-out infinite; }
+      .typed-command { animation: typed-command 13.5s steps(12, end) infinite; }
       @keyframes blink { 50% { opacity: .12; } }
       @keyframes scan { from { transform: translateY(-12px); opacity: 0; } 15% { opacity: .5; } 84% { opacity: .18; } to { transform: translateY(430px); opacity: 0; } }
       @keyframes pulse { 50% { opacity: .48; } }
@@ -44,9 +45,11 @@
       @keyframes type-2 { 0%, 18% { opacity: 0; } 24%, 85% { opacity: 1; } 94%, 100% { opacity: 0; } }
       @keyframes type-3 { 0%, 31% { opacity: 0; } 37%, 85% { opacity: 1; } 94%, 100% { opacity: 0; } }
       @keyframes type-4 { 0%, 44% { opacity: 0; } 50%, 85% { opacity: 1; } 94%, 100% { opacity: 0; } }
+      @keyframes typed-command { 0%, 7% { clip-path: inset(0 100% 0 0); } 24%, 85% { clip-path: inset(0 0 0 0); } 94%, 100% { clip-path: inset(0 100% 0 0); } }
       @media (prefers-reduced-motion: reduce) {
-        .blink, .scan, .pulse, .type-1, .type-2, .type-3, .type-4 { animation: none; }
+        .blink, .scan, .pulse, .type-1, .type-2, .type-3, .type-4, .typed-command { animation: none; }
         .type-1, .type-2, .type-3, .type-4 { opacity: 1; }
+        .typed-command { clip-path: inset(0 0 0 0); }
       }
     </style>
   </defs>
@@ -59,16 +62,15 @@
   <circle cx="48" cy="48" r="7" fill="#ff5f57"/>
   <circle cx="72" cy="48" r="7" fill="#febc2e"/>
   <circle cx="96" cy="48" r="7" fill="#28c840"/>
-  <text x="126" y="54" class="mono tiny" fill="#c7b8d9">v1xtron@vulnpire:~</text>
+  <text x="126" y="54" class="mono tiny" fill="#c7b8d9">v@vulnspire:~</text>
   <text x="1152" y="54" class="mono tiny" text-anchor="end" fill="#ff8fab">VULNPIRE // 01</text>
   <line x1="42" y1="76" x2="1158" y2="76" stroke="#9b5de5" stroke-opacity=".28"/>
 
-  <text x="52" y="116" class="mono prompt" fill="#ff8fab">v1xtron@vulnpire:~$</text>
-  <text x="370" y="116" class="mono prompt" fill="url(#cyan)">whoami</text>
-  <rect x="474" y="96" width="12" height="24" rx="2" class="blink" fill="#ff8fab"/>
+  <text x="52" y="116" class="mono prompt"><tspan fill="#ff8fab">v@vulnspire:~$</tspan><tspan x="226" fill="url(#cyan)" class="typed-command">whoami</tspan><tspan x="302" class="blink" fill="#ff8fab"> ▌</tspan></text>
 
-  <text x="52" y="158" class="mono tiny" fill="#ff3864">[ VULNPIRE SESSION ESTABLISHED ]</text>
-  <text x="52" y="188" class="mono tiny" fill="#8e789f">────────────────────────────────────────────────────────────────────────────────────────────</text>
+  <text x="52" y="145" class="mono value" fill="#f3dce5">v</text>
+  <text x="52" y="177" class="mono tiny"><tspan fill="#ff8fab">v@vulnspire:~$</tspan><tspan fill="#f3dce5"> cat ~/.config/vulnpire/profile</tspan><tspan class="blink" fill="#ff8fab"> ▌</tspan></text>
+  <text x="52" y="198" class="mono tiny" fill="#8e789f">────────────────────────────────────────────────────────────────────────────────────────────</text>
 
   <g fill="#251b38" opacity=".7">
     <rect x="44" y="207" width="1060" height="34" rx="8"/>

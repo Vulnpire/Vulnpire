@@ -33,14 +33,14 @@
   <circle cx="45" cy="45" r="6" fill="#ff5f57"/>
   <circle cx="66" cy="45" r="6" fill="#febc2e"/>
   <circle cx="87" cy="45" r="6" fill="#28c840"/>
-  <text x="115" y="50" class="mono" fill="#c7b8d9">v1xtron@vulnpire-control</text>
+  <text x="115" y="50" class="mono" fill="#c7b8d9">v@vulnspire:~</text>
   <text x="1150" y="50" text-anchor="end" class="mono" fill="#ff8fab">VULNPIRE // PROOF</text>
   <line x1="40" y1="72" x2="1160" y2="72" stroke="#9b5de5" stroke-opacity=".28"/>
-  <text x="44" y="103" class="mono" fill="#f3dce5"><tspan fill="#ff3864">operator</tspan><tspan fill="#8e789f"> :: </tspan><tspan fill="#ff8fab">scope.load</tspan><tspan fill="#8e789f"> profile=authorized-web-lab</tspan></text>
+  <text x="44" y="103" class="mono" fill="#f3dce5"><tspan fill="#ff8fab">v@vulnspire:~$</tspan><tspan fill="#f3dce5"> vulnspire scope load --profile authorized-web-lab</tspan><tspan class="cursor" fill="#ff8fab"> ▌</tspan></text>
   <text x="44" y="136" class="mono" fill="#f3dce5"><tspan fill="#c58cff">[ OK ]</tspan><tspan fill="#8e789f"> authorization boundary loaded</tspan></text>
   <text x="44" y="169" class="mono" fill="#f3dce5"><tspan fill="#c58cff">[ OK ]</tspan><tspan fill="#8e789f"> browser evidence channel ready</tspan></text>
   <text x="44" y="202" class="mono" fill="#f3dce5"><tspan fill="#ff3864">event</tspan><tspan fill="#8e789f"> :: proof.signal = awaiting observation</tspan></text>
-  <text x="44" y="235" class="mono" fill="#f3dce5"><tspan fill="#ff8fab">v1xtron</tspan><tspan fill="#8e789f"> :: proof before posture</tspan><tspan class="cursor" fill="#ff8fab"> ▌</tspan></text>
+  <text x="44" y="235" class="mono" fill="#f3dce5"><tspan fill="#ff8fab">v@vulnspire</tspan><tspan fill="#8e789f"> :: proof before posture</tspan><tspan class="cursor" fill="#ff8fab"> ▌</tspan></text>
   <g transform="translate(940 104)">
     <circle cx="78" cy="55" r="43" fill="#ff3864" fill-opacity=".1" class="pulse"/>
     <circle cx="78" cy="55" r="30" fill="none" stroke="#9b5de5" stroke-opacity=".75" stroke-width="2"/>

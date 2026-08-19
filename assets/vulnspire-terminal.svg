@@ -50,11 +50,11 @@
   <circle cx="48" cy="48" r="7" fill="#ff5f57"/>
   <circle cx="72" cy="48" r="7" fill="#febc2e"/>
   <circle cx="96" cy="48" r="7" fill="#28c840"/>
-  <text x="125" y="54" class="mono small" fill="#c7b8d9">v1xtron@vulnpire:~</text>
+  <text x="125" y="54" class="mono small" fill="#c7b8d9">v@vulnspire:~</text>
   <text x="1135" y="54" class="mono small" text-anchor="end" fill="#ff8fab">VULNPIRE // V</text>
 
   <line x1="42" y1="76" x2="1158" y2="76" stroke="#9b5de5" stroke-opacity=".28"/>
-  <text x="48" y="118" class="mono small" fill="#ff3864">[ V1XTRON // VULNPIRE BUILD ]</text>
+  <text x="48" y="118" class="mono small"><tspan fill="#ff8fab">v@vulnspire:~$</tspan><tspan fill="#f3dce5"> vulnspire validate --browser-proof</tspan><tspan class="blink" fill="#ff8fab"> ▌</tspan></text>
   <text x="48" y="161" class="mono title" fill="url(#cyanText)" filter="url(#glowCyan)">SHARP EYES. CLEAN PROOF.</text>
   <text x="48" y="194" class="mono body" fill="#f3dce5">security research · AI engineering · strange systems</text>
 
