@@ -15,12 +15,19 @@
 
 ## `whoami`
 
+<img src="./assets/v-whoami.svg" alt="Animated terminal showing V's whoami profile" width="100%" />
+
+<details>
+<summary>view the readable identity output</summary>
+
 ```text
 name       : V
 mode       : continuously learning, exploring, building, growing
 focus      : AI security engineering / web application security / developer tooling
 sidequests : bug bounty research / CTFs / reverse engineering / strange systems
 ```
+
+</details>
 
 I am **V** — a security researcher, builder, and lifelong learner. I hunt weak signals, follow them into systems, and turn discoveries into stronger defenses.
 
