@@ -1,15 +1,15 @@
 <div align="center">
 
-# `v1xtron` // VULNSPIRE
+# `V` // VULNSPIRE
 
 ### AI-native PTaaS for authorized, evidence-backed web security
 
-[![Vulnpire](https://img.shields.io/badge/VULNSPIRE-AI--NATIVE_PTAAS-0b1220?style=for-the-badge&labelColor=ff3cac)](https://vulnspire.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-VULNPIRE-0b1220?style=for-the-badge&labelColor=4de2ff)](https://www.linkedin.com/in/vulnpire/)
+[![Vulnspire](https://img.shields.io/badge/VULNSPIRE-AI--NATIVE_PTAAS-0b1220?style=for-the-badge&labelColor=ff3cac)](https://vulnspire.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-V-0b1220?style=for-the-badge&labelColor=4de2ff)](https://www.linkedin.com/in/vulnpire/)
 [![Spotify](https://img.shields.io/badge/SPOTIFY-NOW_PLAYING-0b1220?style=for-the-badge&labelColor=1ed760)](https://open.spotify.com/user/31kzny65nrpye2e6hcio4v27ik7e)
 [![Cyberpars](https://img.shields.io/badge/CYBERPARS-SECURITY-0b1220?style=for-the-badge&labelColor=ff9a3d)](https://cyberpars.com)
 
-<img src="./assets/vulnpire-terminal.svg" alt="Vulnpire cyberpunk terminal interface" width="100%" />
+<img src="./assets/vulnspire-terminal.svg" alt="Vulnspire cyberpunk terminal interface" width="100%" />
 
 > I build systems that turn repetitive web pentesting into continuous, explainable security validation — with browser proof, durable evidence, and findings teams can act on.
 
@@ -18,19 +18,19 @@
 ## `whoami`
 
 ```text
-alias      : v1xtron
+name       : V
 mode       : continuously learning, exploring, building, growing
 focus      : AI security engineering / web application security / developer tooling
 sidequests : bug bounty research / CTFs / reverse engineering / strange systems
 ```
 
-I am a security researcher, builder, and lifelong learner. I enjoy taking complex systems apart, understanding how they fail, and turning those lessons into tools that make the next assessment faster and more reliable.
+I am **V** — a security researcher, builder, and lifelong learner. I hunt weak signals, follow them into systems, and turn discoveries into stronger defenses.
 
 ## `organizations`
 
 | Signal | Mission |
 | --- | --- |
-| **[Vulnpire](https://vulnspire.com)** | Building an AI-native PTaaS that automates authorized web security testing and produces evidence-backed results. |
+| **[Vulnspire](https://vulnspire.com)** | Building an AI-native PTaaS that automates authorized web security testing and produces evidence-backed results. |
 | **[Cyberpars Cybersecurity](https://cyberpars.com)** | Co-founder of a cybersecurity company delivering penetration testing and security services. |
 
 ## `field_log`
@@ -40,7 +40,7 @@ I am a security researcher, builder, and lifelong learner. I enjoy taking comple
 - Play CTFs for fun — the security equivalent of playing a good game.
 - Keep evolving: learn → explore → build → test → share → repeat.
 
-## `vulnpire_stack`
+## `vulnspire_stack`
 
 ```text
 ┌─ security operations ──────────────────────────────────────────────┐
@@ -50,6 +50,12 @@ I am a security researcher, builder, and lifelong learner. I enjoy taking comple
 ```
 
 The platform direction is simple: make authorized web security testing more continuous, more explainable, and less dependent on repetitive manual work — without treating a model response as proof.
+
+## `operator_console`
+
+<img src="./assets/vulnspire-console.svg" alt="Vulnspire authorized operator console visual" width="100%" />
+
+> **Visual concept only:** this console is a safe, non-executing profile animation. It does not receive commands, open a shell, run a C2, or connect to any machine.
 
 ## `toolkit`
 
@@ -71,18 +77,26 @@ Web and API security · vulnerability research · automation · reconnaissance �
 
 </details>
 
+## `soundtrack`
+
+<a href="https://open.spotify.com/user/31kzny65nrpye2e6hcio4v27ik7e">
+  <img src="./assets/spotify-now-playing.svg" alt="Spotify listening panel — open my profile" width="100%" />
+</a>
+
+The listening panel has an optional self-hosted updater. It reads only your own recently played track through Spotify OAuth and commits a small SVG card to this repository. It stays disabled until the repository variable `SPOTIFY_ENABLED=true` and the required GitHub Actions secrets are configured.
+
 ## `outside_the_terminal`
 
 ```text
 music   → Spotify
 network → LinkedIn
-company → Vulnpire · Cyberpars
+company → Vulnspire · Cyberpars
 code    → GitHub
 ```
 
 <div align="center">
 
-### [Enter Vulnpire ↗](https://vulnspire.com) · [Connect on LinkedIn ↗](https://www.linkedin.com/in/vulnpire/) · [Listen with me ↗](https://open.spotify.com/user/31kzny65nrpye2e6hcio4v27ik7e)
+### [Enter Vulnspire ↗](https://vulnspire.com) · [Connect on LinkedIn ↗](https://www.linkedin.com/in/vulnpire/) · [Listen with me ↗](https://open.spotify.com/user/31kzny65nrpye2e6hcio4v27ik7e)
 
 <br />
 
@@ -91,7 +105,6 @@ code    → GitHub
 </div>
 
 <!--
-  The live Spotify panel is intentionally represented by a normal profile link
-  until an opt-in, self-hosted OAuth workflow is configured. A public Spotify
-  profile URL does not grant access to recently played tracks.
+  The live Spotify panel is opt-in and self-hosted. A public Spotify profile URL
+  does not grant access to recently played tracks.
 -->

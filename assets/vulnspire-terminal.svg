@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
-  <title id="title">Vulnpire cyberpunk terminal</title>
-  <desc id="desc">A dark terminal interface showing the Vulnpire AI-native PTaaS identity and security proof pipeline.</desc>
+  <title id="title">Vulnspire cyberpunk terminal</title>
+  <desc id="desc">A dark terminal interface for Vulnspire, an AI-native PTaaS, with a safe evidence and browser-proof motif.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#070b17"/>
@@ -50,8 +50,8 @@
   <circle cx="48" cy="48" r="7" fill="#ff5f57"/>
   <circle cx="72" cy="48" r="7" fill="#febc2e"/>
   <circle cx="96" cy="48" r="7" fill="#28c840"/>
-  <text x="125" y="54" class="mono small" fill="#9aa8c7">v1xtron@vulnpire:~</text>
-  <text x="1135" y="54" class="mono small" text-anchor="end" fill="#ff3cac">SECURE CHANNEL</text>
+  <text x="125" y="54" class="mono small" fill="#9aa8c7">v@vulnspire:~</text>
+  <text x="1135" y="54" class="mono small" text-anchor="end" fill="#ff3cac">AUTHORIZED PLANE</text>
 
   <line x1="42" y1="76" x2="1158" y2="76" stroke="#4de2ff" stroke-opacity=".2"/>
   <text x="48" y="118" class="mono small" fill="#ff3cac">[ VULNSPIRE // BOOT SEQUENCE ]</text>

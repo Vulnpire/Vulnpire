@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" role="img" aria-labelledby="title desc">
+  <title id="title">V Spotify listening panel</title>
+  <desc id="desc">A Spotify-inspired listening panel linking to V's Spotify profile, ready for an optional private recently played updater.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#071b18"/>
+      <stop offset="1" stop-color="#0b1220"/>
+    </linearGradient>
+    <style>
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+      .small { font-size: 13px; letter-spacing: 1.3px; }
+      .main { font-size: 22px; font-weight: 700; letter-spacing: 1px; }
+    </style>
+  </defs>
+  <rect width="1200" height="150" rx="18" fill="url(#bg)"/>
+  <rect x="1.5" y="1.5" width="1197" height="147" rx="16.5" fill="none" stroke="#1ed760" stroke-opacity=".7" stroke-width="3"/>
+  <circle cx="75" cy="75" r="42" fill="#1ed760"/>
+  <path d="M51 61C67 56 84 58 99 65M54 75C68 71 82 72 94 78M58 88C69 85 80 86 89 91" fill="none" stroke="#071b18" stroke-width="6" stroke-linecap="round"/>
+  <text x="145" y="57" class="mono small" fill="#1ed760">V // SOUNDTRACK // SPOTIFY</text>
+  <text x="145" y="91" class="mono main" fill="#e5fff0">tap to open my listening channel</text>
+  <text x="145" y="119" class="mono small" fill="#91bca5">recent-played feed: opt-in · self-hosted · OAuth-scoped</text>
+  <text x="1145" y="83" text-anchor="end" class="mono small" fill="#1ed760">↗ OPEN PROFILE</text>
+</svg>
