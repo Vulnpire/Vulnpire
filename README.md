@@ -1,48 +1,64 @@
 <div align="center">
 
-# `V` // VULNSPIRE
+# `v1xtron` // `NIGHTSHIFT`
 
-### security researcher · AI engineer · builder
+### security research · AI engineering · builder
 
-[![Vulnspire](https://img.shields.io/badge/VULNSPIRE-AI--NATIVE_PTAAS-0b1220?style=for-the-badge&labelColor=ff3cac)](https://vulnspire.com)
-[![Cyberpars](https://img.shields.io/badge/CYBERPARS-SECURITY-0b1220?style=for-the-badge&labelColor=ff9a3d)](https://cyberpars.com)
+[![Vulnspire](https://img.shields.io/badge/VULNSPIRE-AI--NATIVE_PTAAS-0b0710?style=for-the-badge&labelColor=8f1d40)](https://vulnspire.com)
+[![Cyberpars](https://img.shields.io/badge/CYBERPARS-SECURITY-0b0710?style=for-the-badge&labelColor=5b2a86)](https://cyberpars.com)
 
-<img src="./assets/vulnspire-terminal.svg" alt="Vulnspire cyberpunk terminal interface" width="100%" />
+<img src="./assets/vulnspire-terminal.svg" alt="v1xtron midnight cyberpunk terminal" width="100%" />
 
-> I build systems for authorized web security testing — turning browser behavior into evidence people can inspect, reproduce, and act on.
+> I build security systems for authorized web testing — part researcher, part engineer, always looking for the signal others missed.
 
 </div>
 
 ## `whoami`
 
-<img src="./assets/v-whoami.svg" alt="Animated terminal showing V's whoami profile" width="100%" />
+<img src="./assets/v-whoami.svg" alt="Animated midnight terminal showing v1xtron's identity" width="100%" />
 
 <details>
 <summary>open the terminal output</summary>
 
 ```text
-name       : V
-mode       : continuously learning, exploring, building, growing
-focus      : AI security engineering / web application security / developer tooling
-sidequests : bug bounty research / CTFs / reverse engineering / strange systems
+handle     : v1xtron
+callsign   : V
+mode       : confident, curious, diligent, always learning
+focus      : security research / AI engineering / developer tooling
+sidequests : bug bounty / CTFs / reversing / strange systems
 ```
 
 </details>
 
-I’m **V**. My work sits where application security, automation, and developer tooling overlap. I follow weak signals until they become reproducible findings — then I work out how to make the next version harder to break.
+I’m **V**, online as **v1xtron**. My work sits where application security, automation, and developer tooling overlap. I like turning vague signals into clean explanations, reproducible findings, and stronger defenses.
 
 ## `workbench`
 
-| Project | What I’m working on |
+| Project | Role / direction |
 | --- | --- |
-| **[Vulnspire](https://vulnspire.com)** | An AI-native PTaaS for continuous, authorized web security validation. |
-| **[Cyberpars Cybersecurity](https://cyberpars.com)** | Co-founder of a cybersecurity company delivering penetration testing and security services. |
+| **[Vulnspire](https://vulnspire.com)** | Building an AI-native PTaaS for continuous, authorized web security validation. |
+| **[Cyberpars Cybersecurity](https://cyberpars.com)** | Co-founder delivering penetration testing, red-team work, and security services. |
+| **Independent research** | Bug bounty work, vulnerability research, tooling, and technical experiments. |
 
-## `field notes`
+## `track record`
 
-- **Bug bounty:** reported **1,000+ valid findings** across authorized programs — including duplicates.
-- **CTFs:** puzzles, reversing, and strange systems — purely for the fun of it.
-- **Learning loop:** learn → explore → build → test → share.
+| Marker | Detail |
+| --- | --- |
+| `7+ years` | Offensive security, penetration testing, and vulnerability research. |
+| `200+` | Security assessments, penetration tests, and adversary-simulation engagements. |
+| `1,000+` | Valid vulnerability reports across authorized programs, including duplicates. |
+| `100+` | Organizations reached through assessments, disclosure, and security research. |
+
+## `focus`
+
+| Area | What I work on |
+| --- | --- |
+| **Web, API & AI security** | Authentication, authorization, business logic, API workflows, LLM application surfaces, and browser-backed validation. |
+| **Internal & Active Directory** | Attack-path mapping, privilege boundaries, lateral-movement analysis, and defensive recommendations. |
+| **Red team operations** | Adversary simulation, control validation, threat-informed testing, and purple-team feedback. |
+| **Cloud & infrastructure** | AWS, GCP, Azure, containers, Linux, exposed assets, and configuration review. |
+| **Recon & automation** | OSINT, attack-surface mapping, discovery pipelines, HTTP analysis, and repeatable tooling. |
+| **Reverse engineering** | Binary behavior, malware analysis, protocol inspection, debugging, and forensic research. |
 
 ## `inside vulnspire`
 
@@ -55,29 +71,42 @@ I’m **V**. My work sits where application security, automation, and developer 
 
 I’m building Vulnspire around a simple idea: let automation handle the repetitive work, while every important claim stays tied to something a browser actually did.
 
-## `operator_console`
-
-<img src="./assets/vulnspire-console.svg" alt="Vulnspire authorized operator console visual" width="100%" />
-
-> Concept art for an operator-first control plane: observe → validate → preserve proof.
-
-## `toolkit`
-
-`Go` · `Python` · `TypeScript` · `JavaScript` · `Bash` · `Docker` · `Kubernetes` · `Linux` · `Burp Suite` · `Ghidra` · `Frida` · `Wireshark` · `Cloud` · `CI/CD`
-
-## `selected work`
+## `build log`
 
 | Project | Focus |
 | --- | --- |
-| **[Banshee-AI](https://github.com/Vulnpire/Banshee-AI)** | AI-assisted security research and discovery tooling. |
-| **[Arsenal](https://github.com/Vulnpire/Arsenal)** | A practical collection of security tools, scripts, templates, and field notes. |
+| **[Vulnspire](https://vulnspire.com)** | AI-native PTaaS, autonomous discovery, browser proof, evidence, and findings workflows. |
+| **[Banshee-AI](https://github.com/Vulnpire/Banshee-AI)** | AI-assisted OSINT, reconnaissance, and attack-surface discovery. |
+| **[Arsenal](https://github.com/Vulnpire/Arsenal)** | Security tools, scripts, templates, and field notes. |
 | **[Wayfuzz](https://github.com/Vulnpire/wayfuzz)** | Focused wordlist generation from archived web paths. |
+
+## `toolkit`
+
+**Languages** · `Go` · `Python` · `TypeScript` · `JavaScript` · `Bash` · `PowerShell` · `Rust` · `C/C++` · `SQL`
+
+**Security** · `Burp Suite` · `Ghidra` · `Frida` · `Wireshark` · `Nmap` · `BloodHound` · `Impacket` · `Playwright`
+
+**Systems** · `Linux` · `WSL` · `Docker` · `Kubernetes` · `AWS` · `GCP` · `Azure` · `CI/CD`
+
+## `after hours`
+
+- **Bug bounty:** keep looking after the workday ends; the best leads are often the quiet ones.
+- **CTFs:** reversing, exploitation, and odd systems for the fun of solving hard problems.
+- **Learning:** learn → explore → build → test → share → repeat.
+
+I’m deliberate with details, comfortable with hard problems, and happiest when a vague signal becomes a result someone else can verify.
+
+## `operator_console`
+
+<img src="./assets/vulnspire-console.svg" alt="v1xtron midnight operator console visual" width="100%" />
+
+> A visual study of a proof-first control plane: quiet interface, sharp edges, no theatrics.
 
 <details>
 <summary><code>topics I keep returning to</code></summary>
 <br />
 
-Web and API security · vulnerability research · automation · reconnaissance · threat hunting · reverse engineering · detection engineering · DevSecOps · adversary emulation · open-source tooling
+Web and API security · AI security · vulnerability research · automation · reconnaissance · threat hunting · reverse engineering · detection engineering · DevSecOps · adversary emulation · open-source tooling
 
 </details>
 
@@ -87,6 +116,6 @@ Web and API security · vulnerability research · automation · reconnaissance �
 
 <br />
 
-`follow the signal · prove the impact · build the defense`
+`night shift · sharp eyes · clean proof`
 
 </div>

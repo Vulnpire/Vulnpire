@@ -1,24 +1,24 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
-  <title id="title">V whoami terminal</title>
-  <desc id="desc">An animated terminal-style identity card for V: continuously learning, exploring, building, and growing, focused on AI security engineering, web application security, and developer tooling.</desc>
+  <title id="title">v1xtron whoami terminal</title>
+  <desc id="desc">An animated vampiric terminal-style identity card for v1xtron, focused on security research, AI engineering, and developer tooling.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#060a12"/>
-      <stop offset="0.58" stop-color="#0b1220"/>
-      <stop offset="1" stop-color="#160c22"/>
+      <stop offset="0" stop-color="#08070f"/>
+      <stop offset="0.58" stop-color="#130a1c"/>
+      <stop offset="1" stop-color="#250b18"/>
     </linearGradient>
     <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#4de2ff"/>
-      <stop offset="0.52" stop-color="#8b5cf6"/>
-      <stop offset="1" stop-color="#ff3cac"/>
+      <stop offset="0" stop-color="#ff3864"/>
+      <stop offset="0.52" stop-color="#9b5de5"/>
+      <stop offset="1" stop-color="#ff8fab"/>
     </linearGradient>
     <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#4de2ff"/>
-      <stop offset="1" stop-color="#c4f7ff"/>
+      <stop offset="0" stop-color="#ff8fab"/>
+      <stop offset="1" stop-color="#ffe0e8"/>
     </linearGradient>
     <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
-      <path d="M44 0H0V44" fill="none" stroke="#4de2ff" stroke-opacity=".075"/>
-      <circle cx="2" cy="2" r="1.2" fill="#ff3cac" fill-opacity=".38"/>
+      <path d="M44 0H0V44" fill="none" stroke="#9b5de5" stroke-opacity=".1"/>
+      <circle cx="2" cy="2" r="1.2" fill="#ff3864" fill-opacity=".42"/>
     </pattern>
     <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
       <feGaussianBlur stdDeviation="4" result="blur"/>
@@ -54,51 +54,51 @@
   <rect width="1200" height="430" rx="22" fill="url(#bg)"/>
   <rect x="1.5" y="1.5" width="1197" height="427" rx="20" fill="none" stroke="url(#edge)" stroke-opacity=".82" stroke-width="3"/>
   <rect x="18" y="18" width="1164" height="394" rx="15" fill="url(#grid)"/>
-  <rect x="18" y="18" width="1164" height="394" rx="15" fill="none" stroke="#4de2ff" stroke-opacity=".18"/>
+  <rect x="18" y="18" width="1164" height="394" rx="15" fill="none" stroke="#9b5de5" stroke-opacity=".24"/>
 
   <circle cx="48" cy="48" r="7" fill="#ff5f57"/>
   <circle cx="72" cy="48" r="7" fill="#febc2e"/>
   <circle cx="96" cy="48" r="7" fill="#28c840"/>
-  <text x="126" y="54" class="mono tiny" fill="#9aa8c7">v@vulnspire:~</text>
-  <text x="1152" y="54" class="mono tiny" text-anchor="end" fill="#ff3cac">IDENTITY // 01</text>
-  <line x1="42" y1="76" x2="1158" y2="76" stroke="#4de2ff" stroke-opacity=".2"/>
+  <text x="126" y="54" class="mono tiny" fill="#c7b8d9">v1xtron@nightshift:~</text>
+  <text x="1152" y="54" class="mono tiny" text-anchor="end" fill="#ff8fab">MIDNIGHT // 01</text>
+  <line x1="42" y1="76" x2="1158" y2="76" stroke="#9b5de5" stroke-opacity=".28"/>
 
-  <text x="52" y="116" class="mono prompt" fill="#65f7a1">v@vulnspire:~$</text>
-  <text x="246" y="116" class="mono prompt" fill="url(#cyan)">whoami</text>
-  <rect x="350" y="96" width="12" height="24" rx="2" class="blink" fill="#4de2ff"/>
+  <text x="52" y="116" class="mono prompt" fill="#ff8fab">v1xtron@nightshift:~$</text>
+  <text x="370" y="116" class="mono prompt" fill="url(#cyan)">whoami</text>
+  <rect x="474" y="96" width="12" height="24" rx="2" class="blink" fill="#ff8fab"/>
 
-  <text x="52" y="158" class="mono tiny" fill="#ff3cac">[ SESSION ESTABLISHED ]</text>
-  <text x="52" y="188" class="mono tiny" fill="#7284a8">────────────────────────────────────────────────────────────────────────────────────────────</text>
+  <text x="52" y="158" class="mono tiny" fill="#ff3864">[ MIDNIGHT SESSION ESTABLISHED ]</text>
+  <text x="52" y="188" class="mono tiny" fill="#8e789f">────────────────────────────────────────────────────────────────────────────────────────────</text>
 
-  <g fill="#1d2940" opacity=".62">
+  <g fill="#251b38" opacity=".7">
     <rect x="44" y="207" width="1060" height="34" rx="8"/>
     <rect x="44" y="249" width="1060" height="34" rx="8"/>
     <rect x="44" y="291" width="1060" height="34" rx="8"/>
     <rect x="44" y="333" width="1060" height="34" rx="8"/>
   </g>
 
-  <g class="mono value" fill="#536682">
-    <text x="64" y="230"><tspan class="label" fill="#536682">name</tspan><tspan x="218">:</tspan><tspan x="250">V</tspan></text>
-    <text x="64" y="272"><tspan class="label" fill="#536682">mode</tspan><tspan x="218">:</tspan><tspan x="250">continuously learning, exploring, building, growing</tspan></text>
-    <text x="64" y="314"><tspan class="label" fill="#536682">focus</tspan><tspan x="218">:</tspan><tspan x="250">AI security engineering / web application security / developer tooling</tspan></text>
-    <text x="64" y="356"><tspan class="label" fill="#536682">sidequests</tspan><tspan x="218">:</tspan><tspan x="250">bug bounty research / CTFs / reverse engineering / strange systems</tspan></text>
+  <g class="mono value" fill="#6d5b7d">
+    <text x="64" y="230"><tspan class="label" fill="#6d5b7d">handle</tspan><tspan x="218">:</tspan><tspan x="250">v1xtron</tspan></text>
+    <text x="64" y="272"><tspan class="label" fill="#6d5b7d">mode</tspan><tspan x="218">:</tspan><tspan x="250">confident, curious, diligent, always learning</tspan></text>
+    <text x="64" y="314"><tspan class="label" fill="#6d5b7d">focus</tspan><tspan x="218">:</tspan><tspan x="250">security research / AI engineering / developer tooling</tspan></text>
+    <text x="64" y="356"><tspan class="label" fill="#6d5b7d">sidequests</tspan><tspan x="218">:</tspan><tspan x="250">bug bounty / CTFs / reversing / strange systems</tspan></text>
   </g>
 
   <g class="mono value" fill="#dce8ff">
-    <text class="type-1" x="64" y="230"><tspan class="label" fill="#65f7a1">name</tspan><tspan x="218">:</tspan><tspan x="250">V</tspan></text>
-    <text class="type-2" x="64" y="272"><tspan class="label" fill="#4de2ff">mode</tspan><tspan x="218">:</tspan><tspan x="250">continuously learning, exploring, building, growing</tspan></text>
-    <text class="type-3" x="64" y="314"><tspan class="label" fill="#4de2ff">focus</tspan><tspan x="218">:</tspan><tspan x="250">AI security engineering / web application security / developer tooling</tspan></text>
-    <text class="type-4" x="64" y="356"><tspan class="label" fill="#ff9a3d">sidequests</tspan><tspan x="218">:</tspan><tspan x="250">bug bounty research / CTFs / reverse engineering / strange systems</tspan></text>
+    <text class="type-1" x="64" y="230"><tspan class="label" fill="#ff8fab">handle</tspan><tspan x="218">:</tspan><tspan x="250">v1xtron</tspan></text>
+    <text class="type-2" x="64" y="272"><tspan class="label" fill="#c58cff">mode</tspan><tspan x="218">:</tspan><tspan x="250">confident, curious, diligent, always learning</tspan></text>
+    <text class="type-3" x="64" y="314"><tspan class="label" fill="#c58cff">focus</tspan><tspan x="218">:</tspan><tspan x="250">security research / AI engineering / developer tooling</tspan></text>
+    <text class="type-4" x="64" y="356"><tspan class="label" fill="#ff3864">sidequests</tspan><tspan x="218">:</tspan><tspan x="250">bug bounty / CTFs / reversing / strange systems</tspan></text>
   </g>
 
   <g transform="translate(1120 214)">
-    <circle cx="0" cy="0" r="42" fill="#ff3cac" fill-opacity=".08" class="pulse" filter="url(#glow)"/>
-    <circle cx="0" cy="0" r="27" fill="none" stroke="#4de2ff" stroke-opacity=".7" stroke-width="2"/>
-    <circle cx="0" cy="0" r="10" fill="#0b1220" stroke="#ff3cac" stroke-width="2"/>
-    <path d="M0-27V-39M0 27V39M-27 0H-39M27 0H39" stroke="#65f7a1" stroke-width="2"/>
+    <circle cx="0" cy="0" r="42" fill="#ff3864" fill-opacity=".1" class="pulse" filter="url(#glow)"/>
+    <circle cx="0" cy="0" r="27" fill="none" stroke="#9b5de5" stroke-opacity=".78" stroke-width="2"/>
+    <circle cx="0" cy="0" r="10" fill="#110b1a" stroke="#ff3864" stroke-width="2"/>
+    <path d="M0-27V-39M0 27V39M-27 0H-39M27 0H39" stroke="#ff8fab" stroke-width="2"/>
   </g>
-  <text x="1120" y="286" class="mono tiny" text-anchor="middle" fill="#9aa8c7">V // BUILD</text>
-  <text x="1120" y="305" class="mono tiny" text-anchor="middle" fill="#9aa8c7">LEARN // GROW</text>
+  <text x="1120" y="286" class="mono tiny" text-anchor="middle" fill="#c7b8d9">V1XTRON // BUILD</text>
+  <text x="1120" y="305" class="mono tiny" text-anchor="middle" fill="#c7b8d9">LEARN // GROW</text>
 
   <rect x="18" y="18" width="1164" height="3" rx="1.5" class="scan" fill="url(#edge)" opacity=".35"/>
 </svg>

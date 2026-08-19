@@ -1,25 +1,25 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-  <title id="title">Vulnspire authorized operator console</title>
-  <desc id="desc">A non-executing terminal-style security operations visual with safe simulated status lines.</desc>
+  <title id="title">v1xtron midnight operator console</title>
+  <desc id="desc">A non-executing vampiric terminal-style security operations visual with proof-first status lines.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#090d18"/>
-      <stop offset="1" stop-color="#161024"/>
+      <stop offset="0" stop-color="#08070f"/>
+      <stop offset="1" stop-color="#250b18"/>
     </linearGradient>
     <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#4de2ff"/>
-      <stop offset="1" stop-color="#ff3cac"/>
+      <stop offset="0" stop-color="#ff3864"/>
+      <stop offset="1" stop-color="#9b5de5"/>
     </linearGradient>
     <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
-      <path d="M30 0H0V30" fill="none" stroke="#4de2ff" stroke-opacity=".07"/>
+      <path d="M30 0H0V30" fill="none" stroke="#9b5de5" stroke-opacity=".1"/>
     </pattern>
     <style>
       .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
-      .muted { fill: #7e8dab; font-size: 13px; letter-spacing: 1px; }
+      .muted { fill: #c7b8d9; font-size: 13px; letter-spacing: 1px; }
       .line { fill: #dce8ff; font-size: 16px; }
-      .cyan { fill: #4de2ff; }
-      .pink { fill: #ff3cac; }
-      .green { fill: #65f7a1; }
+      .cyan { fill: #ff8fab; }
+      .pink { fill: #ff3864; }
+      .green { fill: #c58cff; }
       .pulse { animation: pulse 2.4s ease-in-out infinite; }
       .cursor { animation: blink 1s steps(2, jump-none) infinite; }
       @keyframes pulse { 50% { opacity: .45; } }
@@ -29,22 +29,22 @@
   <rect width="1200" height="300" rx="20" fill="url(#bg)"/>
   <rect x="1.5" y="1.5" width="1197" height="297" rx="18.5" fill="none" stroke="url(#bar)" stroke-width="3" stroke-opacity=".75"/>
   <rect x="18" y="18" width="1164" height="264" rx="13" fill="url(#grid)"/>
-  <rect x="18" y="18" width="1164" height="264" rx="13" fill="none" stroke="#4de2ff" stroke-opacity=".2"/>
+  <rect x="18" y="18" width="1164" height="264" rx="13" fill="none" stroke="#9b5de5" stroke-opacity=".25"/>
   <circle cx="45" cy="45" r="6" fill="#ff5f57"/>
   <circle cx="66" cy="45" r="6" fill="#febc2e"/>
   <circle cx="87" cy="45" r="6" fill="#28c840"/>
-  <text x="115" y="50" class="mono" fill="#7e8dab">v@vulnspire-control</text>
-  <text x="1150" y="50" text-anchor="end" class="mono" fill="#ff3cac">SAFE SIMULATION</text>
-  <line x1="40" y1="72" x2="1160" y2="72" stroke="#4de2ff" stroke-opacity=".2"/>
-  <text x="44" y="103" class="mono" fill="#dce8ff"><tspan fill="#ff3cac">operator</tspan><tspan fill="#7e8dab"> :: </tspan><tspan fill="#4de2ff">scope.load</tspan><tspan fill="#7e8dab"> profile=authorized-web-lab</tspan></text>
-  <text x="44" y="136" class="mono" fill="#dce8ff"><tspan fill="#65f7a1">[ OK ]</tspan><tspan fill="#7e8dab"> authorization boundary loaded</tspan></text>
-  <text x="44" y="169" class="mono" fill="#dce8ff"><tspan fill="#65f7a1">[ OK ]</tspan><tspan fill="#7e8dab"> browser evidence channel ready</tspan></text>
-  <text x="44" y="202" class="mono" fill="#dce8ff"><tspan fill="#ff3cac">event</tspan><tspan fill="#7e8dab"> :: proof.signal = awaiting observation</tspan></text>
-  <text x="44" y="235" class="mono" fill="#dce8ff"><tspan fill="#4de2ff">vulnspire</tspan><tspan fill="#7e8dab"> :: evidence first, impact always in scope</tspan><tspan class="cursor" fill="#4de2ff"> ▌</tspan></text>
+  <text x="115" y="50" class="mono" fill="#c7b8d9">v1xtron@nightshift-control</text>
+  <text x="1150" y="50" text-anchor="end" class="mono" fill="#ff8fab">NIGHT MODE</text>
+  <line x1="40" y1="72" x2="1160" y2="72" stroke="#9b5de5" stroke-opacity=".28"/>
+  <text x="44" y="103" class="mono" fill="#f3dce5"><tspan fill="#ff3864">operator</tspan><tspan fill="#8e789f"> :: </tspan><tspan fill="#ff8fab">scope.load</tspan><tspan fill="#8e789f"> profile=authorized-web-lab</tspan></text>
+  <text x="44" y="136" class="mono" fill="#f3dce5"><tspan fill="#c58cff">[ OK ]</tspan><tspan fill="#8e789f"> authorization boundary loaded</tspan></text>
+  <text x="44" y="169" class="mono" fill="#f3dce5"><tspan fill="#c58cff">[ OK ]</tspan><tspan fill="#8e789f"> browser evidence channel ready</tspan></text>
+  <text x="44" y="202" class="mono" fill="#f3dce5"><tspan fill="#ff3864">event</tspan><tspan fill="#8e789f"> :: proof.signal = awaiting observation</tspan></text>
+  <text x="44" y="235" class="mono" fill="#f3dce5"><tspan fill="#ff8fab">v1xtron</tspan><tspan fill="#8e789f"> :: proof before posture</tspan><tspan class="cursor" fill="#ff8fab"> ▌</tspan></text>
   <g transform="translate(940 104)">
-    <circle cx="78" cy="55" r="43" fill="#4de2ff" fill-opacity=".07" class="pulse"/>
-    <circle cx="78" cy="55" r="30" fill="none" stroke="#4de2ff" stroke-opacity=".6" stroke-width="2"/>
-    <path d="M65 55L74 64L93 43" fill="none" stroke="#65f7a1" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="78" cy="55" r="43" fill="#ff3864" fill-opacity=".1" class="pulse"/>
+    <circle cx="78" cy="55" r="30" fill="none" stroke="#9b5de5" stroke-opacity=".75" stroke-width="2"/>
+    <path d="M65 55L74 64L93 43" fill="none" stroke="#ff8fab" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
     <text x="78" y="122" text-anchor="middle" class="mono muted">BOUNDARY OK</text>
   </g>
 </svg>
